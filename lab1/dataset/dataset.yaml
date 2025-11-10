@@ -1,0 +1,10 @@
+path: .
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 5
+names: ['ambulance', 'bus', 'car', 'motorcycle', 'truck']
+
+#roboflow:
+  #url: https://universe.roboflow.com/roboflow-gw7yv/vehicles-openimages/dataset/1

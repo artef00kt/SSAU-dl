@@ -1,0 +1,9 @@
+**/venv/
+
+### lab1
+lab1/yolo11n.pt
+lab1/yolov8n.pt
+# link to dataset files https://www.kaggle.com/datasets/alkanerturan/vehicledetection/data
+lab1/dataset/test 
+lab1/dataset/train
+lab1/dataset/valid
