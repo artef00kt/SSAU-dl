@@ -7,3 +7,6 @@ lab1/yolov8n.pt
 lab1/dataset/test 
 lab1/dataset/train
 lab1/dataset/valid
+
+### lab2
+lab2/best_unet_model.pth
